@@ -6,3 +6,5 @@ When replicating result, please put data files and the notebook into one directo
 The fraud dataset can be downloaded here: https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection
 
 Driving behavior detection dataset can be downloaded here: https://www.kaggle.com/datasets/outofskills/driving-behavior
+
+The program for this project can be found here: https://github.com/TeamAlphaTingyu/MachineLearningHW1/
